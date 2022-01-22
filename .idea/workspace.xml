@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f89cc209-f98a-414b-b77e-92dc9bcfe9ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23BvIQ1iZ0dq6Z05SXl5IZW5TtV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Train" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.YOLO_V3_FromRecord">
+    <configuration name="Extract_Final_Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLOv3_Improve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train/Extract_Final_Model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YOLO_V3_FromRecord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLOv3_Improve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train/YOLO_V3_FromRecord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YOLO_V3_ImageDetection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLOv3_Improve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Detection/YOLO_V3_ImageDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YOLO_V3_Model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLOv3_Improve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train/YOLO_V3_Model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YOLO_V3_Train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLOv3_Improve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train/YOLO_V3_Train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.YOLO_V3_FromRecord" />
+        <item itemvalue="Python.YOLO_V3_ImageDetection" />
+        <item itemvalue="Python.Extract_Final_Model" />
+        <item itemvalue="Python.YOLO_V3_Train" />
+        <item itemvalue="Python.YOLO_V3_Model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f89cc209-f98a-414b-b77e-92dc9bcfe9ee" name="Default Changelist" comment="" />
+      <created>1641220213320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641220213320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641220261454">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="580" y="343" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1641220261454" />
+    <state x="780" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1641396559768">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1641396559768" />
+    <state x="1220" y="251" key="FileChooserDialogImpl" timestamp="1641284013467">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1220" y="251" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1641284013467" />
+    <state width="1343" height="328" key="GridCell.Tab.0.bottom" timestamp="1641377199986">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1343" height="328" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1641377199986" />
+    <state width="1343" height="328" key="GridCell.Tab.0.center" timestamp="1641377199985">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1343" height="328" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1641377199985" />
+    <state width="1343" height="328" key="GridCell.Tab.0.left" timestamp="1641377199985">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1343" height="328" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1641377199985" />
+    <state width="1343" height="328" key="GridCell.Tab.0.right" timestamp="1641377199986">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1343" height="328" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1641377199986" />
+    <state width="1829" height="306" key="GridCell.Tab.1.bottom" timestamp="1641366231113">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="306" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1641366231113" />
+    <state width="1829" height="306" key="GridCell.Tab.1.center" timestamp="1641366231112">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="306" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1641366231112" />
+    <state width="1829" height="306" key="GridCell.Tab.1.left" timestamp="1641366231112">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="306" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1641366231112" />
+    <state width="1829" height="306" key="GridCell.Tab.1.right" timestamp="1641366231113">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="306" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1641366231113" />
+    <state x="515" y="174" key="SettingsEditor" timestamp="1641269146596">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="515" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1641269146596" />
+    <state x="665" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1641396102957">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="665" y="387" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1641396102957" />
+    <state x="632" y="236" width="719" height="678" key="search.everywhere.popup" timestamp="1641285794474">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="632" y="236" width="719" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1641285794474" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PreTrain/DarkNet53-Train.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

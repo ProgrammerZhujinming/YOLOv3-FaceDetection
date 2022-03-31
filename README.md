@@ -1,4 +1,4 @@
-# YOLOv3-FaceDetection-
+# YOLOv3-FaceDetection
 use YOLOv3 to realize FaceDetection
 只需要将WiderFace数据集和COCO2014数据集以如下方式组织即可：  
 --DataSet 数据集  
